@@ -16,7 +16,6 @@ int solution(int n) {
     while(!st.empty()){
         answer += st.top()*num;
         num=num*3;
-        cout <<num<<" ";
         st.pop();
     }
     
