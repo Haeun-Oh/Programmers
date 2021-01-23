@@ -10,7 +10,6 @@ int solution(vector<vector<string>> clothes) {
     int answer = 1;
     for(auto i:clothes)
         m[i[1]]++;
-    int num = 1;
     for(auto it= m.begin(); it!= m.end();it++)
         answer *= (it->second +1);
     answer--;
