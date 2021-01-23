@@ -7,7 +7,7 @@ using namespace std;
 map<string, int>m;
 
 int solution(vector<vector<string>> clothes) {
-    int answer = 0;
+    int answer = 1;
     for(auto i:clothes)
         m[i[1]]++;
     int num = 1;
