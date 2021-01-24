@@ -1,10 +1,10 @@
 #include <string>
 #include <vector>
-#include <map>
+#include <unordered_map>
 #include <iostream>
 using namespace std;
 
-map<string, int>m;
+unordered_map<string, int>m;
 
 int solution(vector<vector<string>> clothes) {
     int answer = 1;
