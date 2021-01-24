@@ -1,9 +1,9 @@
 #include <string>
 #include <vector>
-#include <map>
+#include <unordered_map>
 using namespace std;
 
-map<string, int>m;
+unordered_map<string, int>m;
 
 string solution(vector<string> participant, vector<string> completion) {
     for(int i=0;i<participant.size();i++){
