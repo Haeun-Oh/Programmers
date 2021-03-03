@@ -1,0 +1,27 @@
+#include <string>
+#include <vector>
+#include <cctype>
+#include <iostream>
+using namespace std;
+
+string solution(string s) {
+    string answer = "";
+    bool chk = true;
+    for(auto c : s){
+        if(c==' '){
+            answer+=" ";
+            chk = true;
+        }
+        else if(chk && isdigit(c)){
+            answer+= toupper(c);
+            chk = false;
+        }
+        else if(chk && isalpha(c)){
+            answer += toupper(c);
+            chk = false;
+        }
+        else
+            answer += tolower(c);
+    }
+    return answer;
+}
