@@ -10,6 +10,6 @@
 
 [2017 카카오코드 본선] 단체사진 
 
-[2018 KAKAO BLIND RECRUITMENT] [1차] 다트 게임
+[2018 KAKAO BLIND RECRUITMENT] [1차] 다트 게임 (1)
 
 [2018 KAKAO BLIND RECRUITMENT] [1차] 뉴스 클러스터링
