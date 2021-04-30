@@ -23,3 +23,5 @@
 [2020 KAKAO BLIND RECRUITMENT] [Level 1] 신규 아이디 추천
 
 [2020 KAKAO BLIND RECURITMENT] [Level 2] 문자열 압축
+
+[Level 2] 땅따먹기
