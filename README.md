@@ -16,8 +16,6 @@
 
 [2019 카카오 개발자 겨율 인턴십] 징검다리 건너기
 
-
-
 [2020 KAKAO 인턴십] [Level 1] 키패드 누르기
 
 [2020 KAKAO BLIND RECRUITMENT] [Level 1] 신규 아이디 추천
@@ -25,3 +23,5 @@
 [2020 KAKAO BLIND RECURITMENT] [Level 2] 문자열 압축
 
 [Level 2] 땅따먹기
+
+[Level 3] 스티커 모으기(2)
