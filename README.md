@@ -28,4 +28,4 @@
 
 [Level 2] 짝지어 제거하기
 
-[2019 KAKAO BLIND RECRUITMENT] 오픈채팅방
+[2019 KAKAO BLIND RECRUITMENT] [Level2] 오픈채팅방
