@@ -27,3 +27,5 @@
 [Level 3] 스티커 모으기(2)
 
 [Level 2] 짝지어 제거하기
+
+[2019 KAKAO BLIND RECRUITMENT] 오픈채팅방
