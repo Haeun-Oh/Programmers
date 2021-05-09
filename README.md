@@ -31,3 +31,5 @@
 [2019 KAKAO BLIND RECRUITMENT] [Level2] 오픈채팅방
 
 [2020 KAKAO BLIND RECRUITMENT] [Level2] 괄호변환
+
+[2017 팁스타운] [Level2] 예상 
