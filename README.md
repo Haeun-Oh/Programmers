@@ -48,4 +48,6 @@
 
 [Level1] 문자열 내 마음대로 정렬하기
 
-[2019 KAKAO BLIND RECRUITMENT] [Level2] 후
+[2019 KAKAO BLIND RECRUITMENT] [Level2] 후보키
+
+[2018 KAKAO BLIND RECRUITMENT] [Level2] [3차] n진수 
