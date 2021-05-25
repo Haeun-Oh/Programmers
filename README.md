@@ -61,3 +61,5 @@
 [Summer/Winter Coding(~2018)] [Level2] 방문 길이
 
 [2021 KAKAO BLIND RECRUITMENT] [Level2] 메뉴 리뉴얼
+
+[2018 KAKAO BLIND RECRUITMENT] [Level2] [3차] 방금그곡
