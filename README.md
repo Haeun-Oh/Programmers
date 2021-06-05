@@ -65,3 +65,5 @@
 [2018 KAKAO BLIND RECRUITMENT] [Level2] [3차] 방금그곡
 
 [Summer/Winter Coding(~2018)] [Level2] 배달
+
+[월간 코드 챌린지 시즌2] [Level2] 2개 이하로 다른 비트
