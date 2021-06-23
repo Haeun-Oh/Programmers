@@ -32,7 +32,7 @@
 
 [2020 KAKAO BLIND RECRUITMENT] [Level2] 괄호변환
 
-[2017 팁스타운] [Level2] 예상 
+[2017 팁스타운] [Level2] 예상 대진표
 
 [찾아라 프로그래밍 마에스터] [Level2] 게임 맵 최단거리
 
@@ -40,11 +40,11 @@
 
 [월간 코드 챌린지 시즌1] [Level2] 이진 변환 반복하기
 
-[Level 1[ 소수 찾기
+[Level1] 소수 찾기
 
 [2018 KAKAO BLIND RECRUITMENT] [Level2] [1차] 캐시
 
-[Summer/Winter Coding(~2018)] [[점프와 순간 이동] 
+[Summer/Winter Coding(~2018)] [Level2] [점프와 순간 이동] 
 
 [Level1] 문자열 내 마음대로 정렬하기
 
