@@ -44,7 +44,7 @@
 
 [2018 KAKAO BLIND RECRUITMENT] [Level2] [1차] 캐시
 
-[Summer/Winter Coding(~2018)] [Level2] [점프와 순간 이동] 
+~~[Summer/Winter Coding(~2018)] [Level2] [점프와 순간 이동]~~ 
 
 [Level1] 문자열 내 마음대로 정렬하기
 
