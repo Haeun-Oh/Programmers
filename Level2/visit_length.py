@@ -1,17 +1,15 @@
 def solution(dirs):
-    dir ={'L':(-1, 0), 'R':(1, 0), 'U':(0, -1), 'D':(0, 1)}
-    nowx, nowy = 0, 0
-    visit = set()
-    answer=0
+    answer = 0
+    nx, ny = 0, 0
+    visit = []
+    move = {'U':(0, 1), 'D': (0, -1), 'R': (1, 0), 'L':(-1, 0)}
     for d in dirs:
-        x, y = dir[d]
-        nextx = nowx+x
-        nexty = nowy +y
-        if nextx<-5 or nexty <-5 or nextx>5 or nexty>5:
-            continue
-        if(nowx, nowy, nextx, nexty) not in visit:
-            visit.add((nowx, nowy, nextx, nexty))
-            visit.add((nextx, nexty, nowx, nowy))
-            answer+=1
-        nowx, nowy = nextx, nexty
+        x, y = move[d]
+        if -5<=nx+x<=5 and -5<=ny+y<=5: 
+            if (nx, ny, nx+x, ny+y) not in visit:
+                visit.append((nx, ny, nx+x, ny+y))
+                visit.append((nx+x, ny+y, nx, ny))
+                answer+=1
+            nx+=x
+            ny+=y
     return answer
