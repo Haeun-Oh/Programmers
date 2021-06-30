@@ -75,3 +75,5 @@
 [Level3] N-Queen
 
 [Level3] 거스름돈
+
+[Level3] [탐욕법(Greedy)] 단속카메라
